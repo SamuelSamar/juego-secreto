@@ -60,4 +60,4 @@ function reiniciarJuego() {
     condicionesIniciales();
     document.querySelector('#reiniciar').setAttribute('disabled', true);
 }
-mensajesIniciales();
+condicionesIniciales();
